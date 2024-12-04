@@ -1,6 +1,8 @@
 # Heaps
 This repository contains my exploration and implementation of Heaps in Data Structures using Java, focusing on their operations and practical applications.
+
 Key Learnings
+
 Types of Heaps:
 Min Heap: The smallest element is at the root.
 Max Heap: The largest element is at the root.
